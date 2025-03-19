@@ -1,0 +1,6 @@
+item.helmet_stone.name=Stone Helmet
+item.chestplate_stone.name=Stone Chestplate
+item.leggins_stone.name=Stone Leggins
+item.boots_stone.name=Stone Boots
+
+itemGroup.StoneTab=Stone Armour

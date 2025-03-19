@@ -1,0 +1,319 @@
+Unsupposrted library path: C:\Users\calulu\Desktop\giochji\minecraft\mods\1.12.2\Mods\LE MIE MODS\stoneArmour\build\classes\api
+Unsupposrted library path: C:\Users\calulu\Desktop\giochji\minecraft\mods\1.12.2\Mods\LE MIE MODS\stoneArmour\build\resources\api
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "com/calu/stoneArmour/Main.java" md5: 9ae4e4eff0cdefbef6574f953ba67be9
+@|com/calu/stoneArmour/Main.java|8|28|com.calu.stoneArmour|package|com.calu.stoneArmour|(file)
+Class Start: com.calu.stoneArmour.Main
+   @|com/calu/stoneArmour/Main.java|589|592|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/calu/stoneArmour/Main.java|593|598|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/calu/stoneArmour/Main.java|599|608|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/Main.java|609|615|MOD_ID|field|com.calu.stoneArmour.util.Reference|MOD_ID
+   @|com/calu/stoneArmour/Main.java|617|621|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/calu/stoneArmour/Main.java|622|631|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/Main.java|632|636|NAME|field|com.calu.stoneArmour.util.Reference|NAME
+   @|com/calu/stoneArmour/Main.java|638|645|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/calu/stoneArmour/Main.java|646|655|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/Main.java|656|663|VERSION|field|com.calu.stoneArmour.util.Reference|VERSION
+   @|com/calu/stoneArmour/Main.java|679|683|Main|class|com.calu.stoneArmour.Main|false
+   @|com/calu/stoneArmour/Main.java|716|720|Main|class|com.calu.stoneArmour.Main|false
+   @|com/calu/stoneArmour/Main.java|691|699|Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|com/calu/stoneArmour/Main.java|716|720|Main|class|com.calu.stoneArmour.Main|false
+   @|com/calu/stoneArmour/Main.java|721|729|instance|field|com.calu.stoneArmour.Main|instance|
+   @|com/calu/stoneArmour/Main.java|849|860|CommonProxy|class|com.calu.stoneArmour.proxy.CommonProxy|false
+   @|com/calu/stoneArmour/Main.java|737|747|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy|false
+   @|com/calu/stoneArmour/Main.java|748|758|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com/calu/stoneArmour/Main.java|761|770|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/Main.java|771|789|CLIENT_PROXY_CLASS|field|com.calu.stoneArmour.util.Reference|CLIENT_PROXY_CLASS
+   @|com/calu/stoneArmour/Main.java|791|801|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com/calu/stoneArmour/Main.java|803|812|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/Main.java|813|831|COMMON_PROXY_CLASS|field|com.calu.stoneArmour.util.Reference|COMMON_PROXY_CLASS
+   @|com/calu/stoneArmour/Main.java|849|860|CommonProxy|class|com.calu.stoneArmour.proxy.CommonProxy|false
+   @|com/calu/stoneArmour/Main.java|861|866|proxy|field|com.calu.stoneArmour.Main|proxy|
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|942|947|event|param|com.calu.stoneArmour.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/calu/stoneArmour/Main.java|874|886|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/calu/stoneArmour/Main.java|908|915|PreInit|method|com.calu.stoneArmour.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|916|941|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|1029|1034|event|param|com.calu.stoneArmour.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/calu/stoneArmour/Main.java|967|979|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/calu/stoneArmour/Main.java|1001|1005|init|method|com.calu.stoneArmour.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|1006|1028|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/calu/stoneArmour/Main.java|1043|1053|ModRecipes|class|com.calu.stoneArmour.init.ModRecipes|false
+      @|com/calu/stoneArmour/Main.java|1054|1058|init|method|com.calu.stoneArmour.init.ModRecipes|init|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|1142|1147|event|param|com.calu.stoneArmour.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/calu/stoneArmour/Main.java|1072|1084|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/calu/stoneArmour/Main.java|1106|1114|Postinit|method|com.calu.stoneArmour.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/calu/stoneArmour/Main.java|1115|1141|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.calu.stoneArmour.Main
+endProcessing "com/calu/stoneArmour/Main.java"
+
+startProcessing "com/calu/stoneArmour/init/ModItems.java" md5: 761b884b1d5aaaa7e139f95f4c74be71
+@|com/calu/stoneArmour/init/ModItems.java|8|33|com.calu.stoneArmour.init|package|com.calu.stoneArmour.init|(file)
+Class Start: com.calu.stoneArmour.init.ModItems
+   @|com/calu/stoneArmour/init/ModItems.java|567|575|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+   @|com/calu/stoneArmour/init/ModItems.java|608|612|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|603|607|List|class|java.util.List|false
+   @|com/calu/stoneArmour/init/ModItems.java|603|607|List|class|java.util.List|false
+   @|com/calu/stoneArmour/init/ModItems.java|608|612|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|614|619|ITEMS|field|com.calu.stoneArmour.init.ModItems|ITEMS|
+   @|com/calu/stoneArmour/init/ModItems.java|626|635|ArrayList|class|java.util.ArrayList|false
+   @|com/calu/stoneArmour/init/ModItems.java|636|640|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|701|714|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/calu/stoneArmour/init/ModItems.java|701|714|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/calu/stoneArmour/init/ModItems.java|715|727|ARMOUR_STONE|field|com.calu.stoneArmour.init.ModItems|ARMOUR_STONE|
+   @|com/calu/stoneArmour/init/ModItems.java|730|740|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/calu/stoneArmour/init/ModItems.java|741|757|addArmorMaterial|method|net.minecraftforge.common.util.EnumHelper|addArmorMaterial|(Ljava/lang/String;Ljava/lang/String;I[IILnet/minecraft/util/SoundEvent;F)Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+   @|com/calu/stoneArmour/init/ModItems.java|774|783|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/init/ModItems.java|784|790|MOD_ID|field|com.calu.stoneArmour.util.Reference|MOD_ID
+   @|com/calu/stoneArmour/init/ModItems.java|830|841|SoundEvents|class|net.minecraft.init.SoundEvents|false
+   @|com/calu/stoneArmour/init/ModItems.java|842|864|ITEM_ARMOR_EQUIP_CHAIN|field|net.minecraft.init.SoundEvents|ITEM_ARMOR_EQUIP_CHAIN
+   @|com/calu/stoneArmour/init/ModItems.java|907|911|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|907|911|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|912|924|HELMET_STONE|field|com.calu.stoneArmour.init.ModItems|HELMET_STONE|
+   @|com/calu/stoneArmour/init/ModItems.java|931|940|ArmorBase|class|com.calu.stoneArmour.items.armor.ArmorBase|false
+   @|com/calu/stoneArmour/init/ModItems.java|957|969|ARMOUR_STONE|field|com.calu.stoneArmour.init.ModItems|ARMOUR_STONE
+   @|com/calu/stoneArmour/init/ModItems.java|974|993|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/calu/stoneArmour/init/ModItems.java|994|998|HEAD|field|net.minecraft.inventory.EntityEquipmentSlot|HEAD
+   @|com/calu/stoneArmour/init/ModItems.java|1023|1027|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1023|1027|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1028|1044|CHESTPLATE_STONE|field|com.calu.stoneArmour.init.ModItems|CHESTPLATE_STONE|
+   @|com/calu/stoneArmour/init/ModItems.java|1051|1060|ArmorBase|class|com.calu.stoneArmour.items.armor.ArmorBase|false
+   @|com/calu/stoneArmour/init/ModItems.java|1081|1093|ARMOUR_STONE|field|com.calu.stoneArmour.init.ModItems|ARMOUR_STONE
+   @|com/calu/stoneArmour/init/ModItems.java|1098|1117|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/calu/stoneArmour/init/ModItems.java|1118|1123|CHEST|field|net.minecraft.inventory.EntityEquipmentSlot|CHEST
+   @|com/calu/stoneArmour/init/ModItems.java|1148|1152|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1148|1152|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1153|1166|LEGGINS_STONE|field|com.calu.stoneArmour.init.ModItems|LEGGINS_STONE|
+   @|com/calu/stoneArmour/init/ModItems.java|1173|1182|ArmorBase|class|com.calu.stoneArmour.items.armor.ArmorBase|false
+   @|com/calu/stoneArmour/init/ModItems.java|1200|1212|ARMOUR_STONE|field|com.calu.stoneArmour.init.ModItems|ARMOUR_STONE
+   @|com/calu/stoneArmour/init/ModItems.java|1217|1236|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/calu/stoneArmour/init/ModItems.java|1237|1241|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
+   @|com/calu/stoneArmour/init/ModItems.java|1267|1271|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1267|1271|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/init/ModItems.java|1272|1283|BOOTS_STONE|field|com.calu.stoneArmour.init.ModItems|BOOTS_STONE|
+   @|com/calu/stoneArmour/init/ModItems.java|1290|1299|ArmorBase|class|com.calu.stoneArmour.items.armor.ArmorBase|false
+   @|com/calu/stoneArmour/init/ModItems.java|1315|1327|ARMOUR_STONE|field|com.calu.stoneArmour.init.ModItems|ARMOUR_STONE
+   @|com/calu/stoneArmour/init/ModItems.java|1332|1351|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/calu/stoneArmour/init/ModItems.java|1352|1356|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
+Class End  : com.calu.stoneArmour.init.ModItems
+endProcessing "com/calu/stoneArmour/init/ModItems.java"
+
+startProcessing "com/calu/stoneArmour/init/ModRecipes.java" md5: 0060e2e75ea1993ea9b991dfb315d3ba
+@|com/calu/stoneArmour/init/ModRecipes.java|8|33|com.calu.stoneArmour.init|package|com.calu.stoneArmour.init|(file)
+Class Start: com.calu.stoneArmour.init.ModRecipes
+   @|com/calu/stoneArmour/init/ModRecipes.java|187|197|ModRecipes|class|com.calu.stoneArmour.init.ModRecipes|false
+   Method Start: init()V
+      @|com/calu/stoneArmour/init/ModRecipes.java|223|227|init|method|com.calu.stoneArmour.init.ModRecipes|init|()V
+      @|com/calu/stoneArmour/init/ModRecipes.java|235|247|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|248|259|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com/calu/stoneArmour/init/ModRecipes.java|260|268|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|269|281|HELMET_STONE|field|com.calu.stoneArmour.init.ModItems|HELMET_STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|287|296|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|297|303|Blocks|class|net.minecraft.init.Blocks|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|304|309|STONE|field|net.minecraft.init.Blocks|STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|324|336|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|337|348|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com/calu/stoneArmour/init/ModRecipes.java|349|357|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|358|374|CHESTPLATE_STONE|field|com.calu.stoneArmour.init.ModItems|CHESTPLATE_STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|380|389|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|390|396|Blocks|class|net.minecraft.init.Blocks|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|397|402|STONE|field|net.minecraft.init.Blocks|STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|417|429|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|430|441|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com/calu/stoneArmour/init/ModRecipes.java|442|450|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|451|464|LEGGINS_STONE|field|com.calu.stoneArmour.init.ModItems|LEGGINS_STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|470|479|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|480|486|Blocks|class|net.minecraft.init.Blocks|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|487|492|STONE|field|net.minecraft.init.Blocks|STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|507|519|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|520|531|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com/calu/stoneArmour/init/ModRecipes.java|532|540|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|541|552|BOOTS_STONE|field|com.calu.stoneArmour.init.ModItems|BOOTS_STONE
+      @|com/calu/stoneArmour/init/ModRecipes.java|558|567|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|568|574|Blocks|class|net.minecraft.init.Blocks|false
+      @|com/calu/stoneArmour/init/ModRecipes.java|575|580|STONE|field|net.minecraft.init.Blocks|STONE
+   Method End: init()V
+Class End  : com.calu.stoneArmour.init.ModRecipes
+endProcessing "com/calu/stoneArmour/init/ModRecipes.java"
+
+startProcessing "com/calu/stoneArmour/items/ItemBase.java" md5: 07cf934016e77b8bc2b8783b89712125
+@|com/calu/stoneArmour/items/ItemBase.java|8|34|com.calu.stoneArmour.items|package|com.calu.stoneArmour.items|(file)
+Class Start: com.calu.stoneArmour.items.ItemBase
+   @|com/calu/stoneArmour/items/ItemBase.java|261|269|ItemBase|class|com.calu.stoneArmour.items.ItemBase|false
+   @|com/calu/stoneArmour/items/ItemBase.java|278|282|Item|class|net.minecraft.item.Item|false
+   @|com/calu/stoneArmour/items/ItemBase.java|294|303|IHasModel|class|com.calu.stoneArmour.util.IHasModel|false
+   Method Start: ItemBase(Ljava/lang/String;)V
+      @|com/calu/stoneArmour/items/ItemBase.java|332|336|name|param|com.calu.stoneArmour.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/calu/stoneArmour/items/ItemBase.java|316|324|ItemBase|method|com.calu.stoneArmour.items.ItemBase|ItemBase|(Ljava/lang/String;)V
+      @|com/calu/stoneArmour/items/ItemBase.java|325|331|String|class|java.lang.String|false
+      @|com/calu/stoneArmour/items/ItemBase.java|345|363|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/calu/stoneArmour/items/ItemBase.java|364|368|name|param|com.calu.stoneArmour.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/calu/stoneArmour/items/ItemBase.java|374|389|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/calu/stoneArmour/items/ItemBase.java|390|394|name|param|com.calu.stoneArmour.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/calu/stoneArmour/items/ItemBase.java|400|414|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/calu/stoneArmour/items/ItemBase.java|415|427|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/calu/stoneArmour/items/ItemBase.java|428|434|COMBAT|field|net.minecraft.creativetab.CreativeTabs|COMBAT
+      @|com/calu/stoneArmour/items/ItemBase.java|445|453|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/items/ItemBase.java|454|459|ITEMS|field|com.calu.stoneArmour.init.ModItems|ITEMS
+      @|com/calu/stoneArmour/items/ItemBase.java|460|463|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ItemBase(Ljava/lang/String;)V
+   Method Start: registerModels()V
+      @|com/calu/stoneArmour/items/ItemBase.java|481|489|Override|class|java.lang.Override|false
+      @|com/calu/stoneArmour/items/ItemBase.java|504|518|registerModels|method|com.calu.stoneArmour.util.IHasModel|registerModels|()V
+      @|com/calu/stoneArmour/items/ItemBase.java|527|531|Main|class|com.calu.stoneArmour.Main|false
+      @|com/calu/stoneArmour/items/ItemBase.java|532|537|proxy|field|com.calu.stoneArmour.Main|proxy
+      @|com/calu/stoneArmour/items/ItemBase.java|538|558|registerItemRenderer|method|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.calu.stoneArmour.items.ItemBase
+endProcessing "com/calu/stoneArmour/items/ItemBase.java"
+
+startProcessing "com/calu/stoneArmour/items/armor/ArmorBase.java" md5: b4d8a2dc63a957672c32d9e17af129d1
+@|com/calu/stoneArmour/items/armor/ArmorBase.java|8|40|com.calu.stoneArmour.items.armor|package|com.calu.stoneArmour.items.armor|(file)
+Class Start: com.calu.stoneArmour.items.armor.ArmorBase
+   @|com/calu/stoneArmour/items/armor/ArmorBase.java|363|372|ArmorBase|class|com.calu.stoneArmour.items.armor.ArmorBase|false
+   @|com/calu/stoneArmour/items/armor/ArmorBase.java|381|390|ItemArmor|class|net.minecraft.item.ItemArmor|false
+   @|com/calu/stoneArmour/items/armor/ArmorBase.java|402|411|IHasModel|class|com.calu.stoneArmour.util.IHasModel|false
+   Method Start: ArmorBase(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|441|445|name|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|461|471|materialIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|materialIn|1
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|477|490|renderIndexIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|renderIndexIn|2
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|512|527|equipmentSlotIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|3
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|424|433|ArmorBase|method|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|434|440|String|class|java.lang.String|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|447|460|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|492|511|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|540|550|materialIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|materialIn|1
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|552|565|renderIndexIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|renderIndexIn|2
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|567|582|equipmentSlotIn|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|3
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|592|610|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|611|615|name|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|621|636|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|637|641|name|param|com.calu.stoneArmour.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|694|702|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|703|708|ITEMS|field|com.calu.stoneArmour.init.ModItems|ITEMS
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|709|712|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ArmorBase(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+   Method Start: registerModels()V
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|734|742|Override|class|java.lang.Override|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|757|771|registerModels|method|com.calu.stoneArmour.util.IHasModel|registerModels|()V
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|780|784|Main|class|com.calu.stoneArmour.Main|false
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|785|790|proxy|field|com.calu.stoneArmour.Main|proxy
+      @|com/calu/stoneArmour/items/armor/ArmorBase.java|791|811|registerItemRenderer|method|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.calu.stoneArmour.items.armor.ArmorBase
+endProcessing "com/calu/stoneArmour/items/armor/ArmorBase.java"
+
+startProcessing "com/calu/stoneArmour/proxy/ClientProxy.java" md5: 226ea4329be43c6ca4e8e9aa1025b039
+@|com/calu/stoneArmour/proxy/ClientProxy.java|8|34|com.calu.stoneArmour.proxy|package|com.calu.stoneArmour.proxy|(file)
+Class Start: com.calu.stoneArmour.proxy.ClientProxy
+   @|com/calu/stoneArmour/proxy/ClientProxy.java|213|224|ClientProxy|class|com.calu.stoneArmour.proxy.ClientProxy|false
+   @|com/calu/stoneArmour/proxy/ClientProxy.java|233|244|CommonProxy|class|com.calu.stoneArmour.proxy.CommonProxy|false
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|287|291|item|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|297|301|meta|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|310|312|id|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|261|281|registerItemRenderer|method|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|282|286|Item|class|net.minecraft.item.Item|false
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|303|309|String|class|java.lang.String|false
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|320|331|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|332|362|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|363|367|item|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|369|373|meta|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|379|400|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|401|405|item|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|406|421|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com/calu/stoneArmour/proxy/ClientProxy.java|425|427|id|param|com.calu.stoneArmour.proxy.ClientProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.calu.stoneArmour.proxy.ClientProxy
+endProcessing "com/calu/stoneArmour/proxy/ClientProxy.java"
+
+startProcessing "com/calu/stoneArmour/proxy/CommonProxy.java" md5: 1402b4ccf9fe7cd0482a7bd306f30b70
+@|com/calu/stoneArmour/proxy/CommonProxy.java|8|34|com.calu.stoneArmour.proxy|package|com.calu.stoneArmour.proxy|(file)
+Class Start: com.calu.stoneArmour.proxy.CommonProxy
+   @|com/calu/stoneArmour/proxy/CommonProxy.java|87|98|CommonProxy|class|com.calu.stoneArmour.proxy.CommonProxy|false
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|142|146|item|param|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|152|156|meta|param|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|165|167|id|param|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|116|136|registerItemRenderer|method|com.calu.stoneArmour.proxy.CommonProxy|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|137|141|Item|class|net.minecraft.item.Item|false
+      @|com/calu/stoneArmour/proxy/CommonProxy.java|158|164|String|class|java.lang.String|false
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.calu.stoneArmour.proxy.CommonProxy
+endProcessing "com/calu/stoneArmour/proxy/CommonProxy.java"
+
+startProcessing "com/calu/stoneArmour/util/IHasModel.java" md5: 2dcf54b9ee786e1df733934fb9b763cf
+@|com/calu/stoneArmour/util/IHasModel.java|8|33|com.calu.stoneArmour.util|package|com.calu.stoneArmour.util|(file)
+Class Start: com.calu.stoneArmour.util.IHasModel
+   @|com/calu/stoneArmour/util/IHasModel.java|55|64|IHasModel|class|com.calu.stoneArmour.util.IHasModel|false
+   Method Start: registerModels()V
+      @|com/calu/stoneArmour/util/IHasModel.java|83|97|registerModels|method|com.calu.stoneArmour.util.IHasModel|registerModels|()V
+   Method End: registerModels()V
+Class End  : com.calu.stoneArmour.util.IHasModel
+endProcessing "com/calu/stoneArmour/util/IHasModel.java"
+
+startProcessing "com/calu/stoneArmour/util/Reference.java" md5: 727c556c738e9c04e132f6609c25b2da
+@|com/calu/stoneArmour/util/Reference.java|8|33|com.calu.stoneArmour.util|package|com.calu.stoneArmour.util|(file)
+Class Start: com.calu.stoneArmour.util.Reference
+   @|com/calu/stoneArmour/util/Reference.java|51|60|Reference|class|com.calu.stoneArmour.util.Reference|false
+   @|com/calu/stoneArmour/util/Reference.java|86|92|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|86|92|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|93|99|MOD_ID|field|com.calu.stoneArmour.util.Reference|MOD_ID|
+   @|com/calu/stoneArmour/util/Reference.java|131|137|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|131|137|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|138|142|NAME|field|com.calu.stoneArmour.util.Reference|NAME|
+   @|com/calu/stoneArmour/util/Reference.java|184|190|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|184|190|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|191|198|VERSION|field|com.calu.stoneArmour.util.Reference|VERSION|
+   @|com/calu/stoneArmour/util/Reference.java|231|237|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|231|237|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|238|254|ACCEPTED_VERSION|field|com.calu.stoneArmour.util.Reference|ACCEPTED_VERSION|
+   @|com/calu/stoneArmour/util/Reference.java|291|297|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|291|297|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|298|316|CLIENT_PROXY_CLASS|field|com.calu.stoneArmour.util.Reference|CLIENT_PROXY_CLASS|
+   @|com/calu/stoneArmour/util/Reference.java|383|389|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|383|389|String|class|java.lang.String|false
+   @|com/calu/stoneArmour/util/Reference.java|390|408|COMMON_PROXY_CLASS|field|com.calu.stoneArmour.util.Reference|COMMON_PROXY_CLASS|
+Class End  : com.calu.stoneArmour.util.Reference
+endProcessing "com/calu/stoneArmour/util/Reference.java"
+
+startProcessing "com/calu/stoneArmour/util/handler/RegistryHandler.java" md5: b2a08defa8905f66a10c766a09e989f3
+@|com/calu/stoneArmour/util/handler/RegistryHandler.java|8|41|com.calu.stoneArmour.util.handler|package|com.calu.stoneArmour.util.handler|(file)
+Class Start: com.calu.stoneArmour.util.handler.RegistryHandler
+   @|com/calu/stoneArmour/util/handler/RegistryHandler.java|410|428|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|com/calu/stoneArmour/util/handler/RegistryHandler.java|445|460|RegistryHandler|class|com.calu.stoneArmour.util.handler.RegistryHandler|false
+   Method Start: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|548|553|event|param|com.calu.stoneArmour.util.handler.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|468|482|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|504|518|onItemRegister|method|com.calu.stoneArmour.util.handler.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|519|541|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|542|546|Item|class|net.minecraft.item.Item|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|560|565|event|param|com.calu.stoneArmour.util.handler.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|566|577|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|580|591|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|592|600|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|601|606|ITEMS|field|com.calu.stoneArmour.init.ModItems|ITEMS
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|607|614|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|619|623|Item|class|net.minecraft.item.Item|false
+   Method End: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|711|716|event|param|com.calu.stoneArmour.util.handler.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|640|654|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|676|691|onModelRegister|method|com.calu.stoneArmour.util.handler.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|692|710|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|727|731|Item|class|net.minecraft.item.Item|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|738|746|ModItems|class|com.calu.stoneArmour.init.ModItems|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|747|752|ITEMS|field|com.calu.stoneArmour.init.ModItems|ITEMS
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|779|788|IHasModel|class|com.calu.stoneArmour.util.IHasModel|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|799|808|IHasModel|class|com.calu.stoneArmour.util.IHasModel|false
+      @|com/calu/stoneArmour/util/handler/RegistryHandler.java|815|829|registerModels|method|com.calu.stoneArmour.util.IHasModel|registerModels|()V
+   Method End: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+Class End  : com.calu.stoneArmour.util.handler.RegistryHandler
+endProcessing "com/calu/stoneArmour/util/handler/RegistryHandler.java"
+

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        }
+    },
+   
+    "result":
+    {
+        "item": "sa:leggins_stone",
+        "data": 0,
+        "count": 1
+    }
+}
